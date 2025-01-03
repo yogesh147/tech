@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tech/static/css/main.211008d0.css",
+    "main.js": "/tech/static/js/main.a4c7bcd1.js",
+    "static/js/453.94ba40d3.chunk.js": "/tech/static/js/453.94ba40d3.chunk.js",
+    "static/media/mcqBluePencil.jpg": "/tech/static/media/mcqBluePencil.96f37f9d929d56e1fb76.jpg",
+    "index.html": "/tech/index.html",
+    "main.211008d0.css.map": "/tech/static/css/main.211008d0.css.map",
+    "main.a4c7bcd1.js.map": "/tech/static/js/main.a4c7bcd1.js.map",
+    "453.94ba40d3.chunk.js.map": "/tech/static/js/453.94ba40d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.211008d0.css",
+    "static/js/main.a4c7bcd1.js"
+  ]
+}
